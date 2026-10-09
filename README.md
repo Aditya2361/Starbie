@@ -4,13 +4,13 @@
 
 ### 📸 Project
 
-<img width="514" height="524" alt="Screenshot 2026-10-08 at 1 55 21 pm" src="https://github.com/user-attachments/assets/e04d4178-73b0-4d5e-b539-da425332ae95" />
+<img width="514" height="524" alt="Screenshot 2026-10-08 at 1 55 21 pm" src="https://github.com/user-attachments/assets/2f913074-8dff-4c6b-a7f5-f7f77b642635" />
 
 
 Starbie is designed to sit on your desk, show its personality on a small display, and react to how you handle it.
 
-<img width="599" height="602" alt="Screenshot 2026-10-08 at 1 48 48 pm" src="https://github.com/user-attachments/assets/3467d7f1-cae4-4f1a-aea8-4a0a379671cf" />
-<img width="595" height="609" alt="Screenshot 2026-10-08 at 1 59 30 pm" src="https://github.com/user-attachments/assets/a779c506-4705-4f8f-9e63-3222a6d6e5c7" />
+<img width="703" height="654" alt="Image3" src="https://github.com/user-attachments/assets/861aac9a-56d2-4604-8aff-7bcb97adcc39" />
+<img width="595" height="609" alt="Screenshot 2026-10-08 at 1 59 30 pm" src="https://github.com/user-attachments/assets/a54703eb-85db-4ee3-8d83-50612c7c5d6f" />
 
 
 Tilting, moving, and otherwise checking in on your pet are meant to be part of the experience.

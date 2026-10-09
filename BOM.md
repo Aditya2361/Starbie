@@ -16,7 +16,7 @@
 | [DHT11, 10k Resistor](https://www.amazon.com.au/) | The DHT11 measures the temperature and humidity. The resistor a part of the electronic circuit. This are both free for me as i already have them | 1 | $0.00 | $0.00 | [Amazon](https://www.amazon.com.au/) |
 | [PCB](https://jlcpcb.com/) | Connects all the components together into one circuit board. | 1 | $15.06 | $15.06 | [JLC PCB](https://jlcpcb.com/) |
 | **Parts subtotal** | — | — | — | **$25.87** | — |
-| **Tax & shipping** | — | — | — | **$0.00** | — |
-| **Total** | — | — | — | **$25.87** | — |
+| **Tax & shipping** | — | — | — | **$3.10** | — |
+| **Total** | — | — | — | **$28.97** | — |
 
-$4.13 left of the tier's funding.
+$1.03 left of the tier's funding.

@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 1 | Tier 1 | 12h | 2 |
+| Week 1 | Tier 1 | 16h | 2 |
 
 ## Contents
 
@@ -66,7 +66,7 @@
 
 ### 2026-10-09 – - Worked further on the PCB design in KiCad and finalised the PCB files.
 
-**6h**
+**10h**
 
 - Worked further on the PCB design in KiCad and finalised the PCB files.
 - Generated the Gerber and drill (DRL) files for PCB manufacturing.
@@ -92,3 +92,11 @@
 ![Image5](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/psEhAcze3X3bWLEMFSmxYAEC5kfNzh6A/b3e9c341dac459b1d51620de902a5215caaaef4e8bcd1eac2c4db92c3c1e13ad.png)
 
 ![Image6](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/psEhAcze3X3bWLEMFSmxYAEC5kfNzh6A/046b18fca0198e526c704bb87aef210480d51582818810f4f2a1c8bc0e06d270.png)
+
+![Image7](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/psEhAcze3X3bWLEMFSmxYAEC5kfNzh6A/7429a8d9591374bc3883bb50f1664bdb6e05c9d94e729b4e05bacf527d9ee55b.png)
+
+![Image8](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/psEhAcze3X3bWLEMFSmxYAEC5kfNzh6A/a5e363123e0f2c76ef5ac85b917ddfb0689ca3ccafd0759b8cdeea4cf7fbc24e.png)
+
+![Image9](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/psEhAcze3X3bWLEMFSmxYAEC5kfNzh6A/d7dc02095be988e6e38ecb95ae821f49f8d743dc308838cce8c2265d7d09f676.png)
+
+![Image10](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/psEhAcze3X3bWLEMFSmxYAEC5kfNzh6A/e945582ec0bcf91c78ec3e6a89bfa01fe5d0dbbae45c3f4af4a531bd27408b1c.png)
